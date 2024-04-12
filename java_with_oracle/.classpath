@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/jungj/Desktop/ojdbc11-23.3.0.23.09.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jungj/Desktop/json-20240303.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jungj/eclipse/jee-2023-12/eclipse/lombok.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
